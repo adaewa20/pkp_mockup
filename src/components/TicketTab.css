@@ -45,7 +45,9 @@
   font-size: 25px;
   margin: 2px;
 }
-
+.m-0 {
+  margin: 0px;
+}
 .m-10 {
   margin: 15px !important;
 }
@@ -59,6 +61,12 @@
 }
 .mr-5 {
   margin-right: 5px !important;
+}
+.mr-10{
+  margin-right: 10px !important;
+}
+.mb-10 {
+  margin-bottom: 10px !important;
 }
 
 .orange {

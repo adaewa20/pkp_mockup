@@ -69,12 +69,12 @@ export const TicketTab = () => {
         </div>
       </div>
       <div className="d-flex flex-row-reverse m-10 ">
-        <Button className="custom-button-1 d-flex align-items-center">
+        <Button className="m-0 custom-button-1 d-flex align-items-center">
           <a className="mr-5 custom-a" href="">INNE FUNKCJE DLA TEGO BILETU</a>
           <GoChevronDown id="round" className="orange"  />
         </Button>
       </div>
-      
+
     </div>
   )
 }

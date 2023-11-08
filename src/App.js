@@ -1,5 +1,5 @@
 import "./App.css";
-import { Tab, Nav, Form, Row, Col, InputGroup, Button } from "react-bootstrap";
+import { Tab, Nav, Button } from "react-bootstrap";
 import { SearchBar } from "./components/SearchBar";
 import { SetFilter } from "./components/SetFilter";
 import { FaPlus } from "react-icons/fa";
