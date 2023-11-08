@@ -5,7 +5,7 @@ import "./SearchBar.css"
 export const SearchBar = () => {
   return (
     <div className='input-wrapper'>
-      <input placeholder='Szukaj biletu' className='ml-15'/>
+      <input placeholder='Szukaj biletu' className='ml-20'/>
       <FaSearch id="search-icon"/>
     </div>
   )
