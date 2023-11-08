@@ -1,7 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Button } from "react-bootstrap";
-import { Tab, Nav } from "react-bootstrap";
+import { Tab, Nav, Form, Row, Col, InputGroup, Button } from "react-bootstrap";
+import { SearchBar } from "./components/SearchBar";
+import { SetFilter } from "./components/SetFilter";
+import { FaPlus } from "react-icons/fa";
+import { TicketTab } from "./components/TicketTab";
 
 function App() {
   return (
@@ -23,7 +25,21 @@ function App() {
 
         <Tab.Content>
           <Tab.Pane eventKey="home">
-            <div></div>
+            <div className="row col-sm-12 col-12 tab-con-margin">
+              <div className="col-9 mp-0">
+                <SearchBar />
+              </div>
+              <SetFilter />
+            </div>
+            <div className="d-flex flex-row-reverse">
+              <Button className="custom-button-1 d-flex align-items-center">
+                <FaPlus id="custom-plus" />
+                <span className="custom-span-2 ml-auto">
+                  DODAJ BILET OKRESOWY
+                </span>
+              </Button>
+            </div>
+            <TicketTab />
           </Tab.Pane>
           <Tab.Pane eventKey="travelHistory">
             <div>HISTORIA PODRÓŻY</div>

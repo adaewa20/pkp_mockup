@@ -1,0 +1,101 @@
+.b-3 {
+  border: solid #B7B7B7 3px;
+  border-radius: 7px;
+}
+
+.num-ticket {
+  color: #1cabe9;
+  background-color: #e4e3e3;
+  height: 8vh;
+  border-radius: 7px;
+  max-height: 40px;
+}
+
+.text-blue-1 {
+  color: #1cabe9;
+  font-size: 16px;
+  font-weight: 500;
+  padding-right: 6px;
+  margin-left: 8px;
+  width: fit-content;
+}
+
+.text-dark-1 {
+  color: #1E2D5F;
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+.custom-a {
+  color: #1E2D5F;
+  font-size: 13px;
+  font-weight: 800;
+  margin-right: 15px;
+}
+
+
+.round-button {
+  border: solid 1px #B7B7B7;
+  border-radius: 50%;
+  margin-left: 6px;
+}
+
+#round {
+  font-size: 25px;
+  margin: 2px;
+}
+
+.m-10 {
+  margin: 15px !important;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mr-5 {
+  margin-right: 5px !important;
+}
+
+.orange {
+  color: #FF6220;
+}
+
+.text-1 {
+  color: #1cabe9;
+  font-weight: 700;
+}
+
+.text-2 {
+  color: #1E2D5F;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.text-3 {
+  color: #1E2D5F;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.chevron-size {
+  font-size: 26px;
+}
+
+.btn2 {
+  background-color: white !important;
+  border: solid 3px #B7B7B7 !important;
+  padding: 20px 40px !important;
+}
+
+.custom-span2 {
+  color: #FF6220;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  height: 100%;
+}

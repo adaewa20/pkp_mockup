@@ -1,0 +1,20 @@
+.btn-filter, .btn-filter:focus, .btn-filter:hover {
+  background-color: white !important;
+  border: solid 3px #B7B7B7 !important;
+  margin-left: 20px;
+  width: 20%;
+  min-width: 97px;
+}
+
+
+.custom-span {
+  color: #1E2D5F;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#slider-icon {
+  color: #1E2D5F;
+  font-size: 25px;
+  margin-left: 15px;
+}

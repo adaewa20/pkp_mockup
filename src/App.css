@@ -37,6 +37,35 @@
   border-bottom-color: #B7B7B7 ;
   border-bottom-width: 3px;
 }
+.tab-con-margin {
+  margin-left: 0 !important;
+  margin-top: 25px !important;
+}
+.mp-0 {
+  margin: 0;
+  padding: 0  !important;
+}
+
+#custom-plus {
+  color: #FF6220;
+  font-size: 14px;
+  margin-right: 8px;
+}
+.custom-span-2 {
+  height: 100%;
+  
+  color: #1cabe9;
+  font-weight: bold;
+  font-size: 16px;
+}
+.custom-button-1 {
+  background-color: white !important;
+  border: none !important;
+  margin: 10px !important;
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+}
+
 
 .view {
   border: 1px solid #000;
