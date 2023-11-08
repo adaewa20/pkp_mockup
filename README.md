@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Mockup in React for PKP Intercity Interview
+
+![image](https://github.com/adaewa20/pkp_mockup/assets/67691947/1449309b-28e4-45b2-903a-8c4889d7d02d)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
